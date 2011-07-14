@@ -1,1 +1,0 @@
-install i18nPlugin
